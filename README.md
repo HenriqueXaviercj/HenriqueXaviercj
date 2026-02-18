@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Me chamo Henrique e sou usuário de JavaScript e suas bibliotecas. 
+
+Estou em busca do meu primeiro emprego como desenvolvedor Front-End.  
+
+Esse perfil é onde eu vou colocar os projetos que estou estudando. Dê uma olhada e me diga no que eu posso melhorar.
+
 <!--
 **HenriqueXaviercj/HenriqueXaviercj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
