@@ -15,8 +15,9 @@ Esse perfil é onde eu vou colocar os projetos que estou estudando. Dê uma olha
 
 ## Curiosidades
  - Sou muito fã de Arte
- - Gosto de criar coisas novas
- - Gosto de Ler
+ - Gosto de criar designs responsivos
+ - Gosto de aprender coisas novas
+
 
 <!--
 **HenriqueXaviercj/HenriqueXaviercj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
