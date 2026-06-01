@@ -9,8 +9,9 @@ Esse perfil é onde eu vou colocar os projetos que estou estudando. Dê uma olha
 ## Tecnologias
  - HTML
  - CSS
- - SCSS (Aprendendo)
- - JavaScript (Aprendendo)
+ - JavaScript
+ - React
+ - Next (Aprendendo)
 
 ## Curiosidades
  - Sou muito fã de Arte
